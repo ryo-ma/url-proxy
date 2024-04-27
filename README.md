@@ -16,3 +16,7 @@ You can use an `encoding` parameter
 ```
 https://url-proxy-dusky.vercel.app/?url=https://xxxxxxxx/xx.json?encoding=shift-jis
 ```
+
+# LICENSE
+
+[MIT LICENSE](./LICENSE)
